@@ -10,7 +10,6 @@ public class Life extends Insurance {
 
     @Override
     public void setInsuranceCost() {
-        // For this simple assignment we set the monthly cost to the user-provided fee.
         this.monthlyCost = inputFee;
     }
 
